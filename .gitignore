@@ -86,3 +86,10 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Dist #
+ /dist
+ /public/__build__/
+ /src/*/__build__/
+ __build__/**
+ .webpack.json
